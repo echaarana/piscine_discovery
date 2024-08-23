@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+
+.col1 {
+    background-color: antiquewhite;
+}
+
+.col2 {
+background-color: bisque;
+}
